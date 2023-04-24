@@ -18,8 +18,9 @@
 ##
 
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank"></a>
+   <a href="https://twitter.com/fsalvesrj" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
+   <a href="https://open.spotify.com/user/fabioalves14?si=4977dee2fc9a401d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>  
+  <a href="https://www.last.fm/user/fsalvesrj" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a> 
 </div>
 
 
