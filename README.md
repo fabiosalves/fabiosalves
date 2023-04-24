@@ -4,7 +4,7 @@
 - 🌱 learning: typescript, react, nodejs
 
 [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosalves&count_private=true&hide=stars&theme=tokyonight&show_icons=true)](https://github.com/fabiosalves/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosalves&layout=compact&theme=tokyonight)](https://github.com/fabiosalves/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosalves&count_private=true&layout=compact&theme=tokyonight)](https://github.com/fabiosalves/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fsa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
