@@ -1,7 +1,7 @@
 ### hi o/
 
 - 🔭 delphi ~ sql server
-- 🌱 learning: typescript, react, nodejs
+- 🌱 learning: java, typescript, react, nodejs
 
 [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosalves&count_private=true&hide=stars&theme=tokyonight&show_icons=true)](https://github.com/fabiosalves/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosalves&count_private=true&layout=compact&theme=tokyonight)](https://github.com/fabiosalves/github-readme-stats)
